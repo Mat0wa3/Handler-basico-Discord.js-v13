@@ -35,3 +35,7 @@ function requirehandlers() {
 requirehandlers();
 
 client.login(config.token).catch(() => console.log(`-[X]- THE BOT TOKEN IS MISSING OR EITHER INVALID -[X]-`.red))  
+
+/*
+* 🟢 Handler hecho por Mateo#9100
+*/
