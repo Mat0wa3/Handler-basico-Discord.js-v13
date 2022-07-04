@@ -49,7 +49,8 @@ Crea su archivo config.json, y dentro de ese archivo colocan
 ```json
 {
   "token": "SU_TOKEN_GENERADO",
-  "prefix": "!" //puede ser el prefix que quieran
+  "prefix": "!", //puede ser el prefix que quieran
+  "ownerIDS": ["/* Tus id */"]
 }
 ```
 
