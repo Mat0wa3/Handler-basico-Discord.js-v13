@@ -1,5 +1,5 @@
 # Handler-basico-Discord.js-v13
-##En esta guia te enseño un handler basico para crear tu bot de discord
+## En esta guia te enseño un handler basico para crear tu bot de discord
 ```js
 const Discord = require('discord.js');
 const config = require('config.json')
@@ -49,7 +49,7 @@ Crea su archivo config.json, y dentro de ese archivo colocan
 ```json
 {
   "token": "SU_TOKEN_GENERADO",
-  "prefix": "!" //puede ser el token que quieran
+  "prefix": "!" //puede ser el prefix que quieran
 }
 ```
 
